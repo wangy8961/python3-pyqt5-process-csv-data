@@ -347,7 +347,7 @@ class Ui_MainWindow(QMainWindow):
             self.cb_2.setChecked(True)  # 勾选列
         except (UnicodeDecodeError, KeyError) as e:
             QMessageBox.warning(self, '警告', '请选择正确的 [店铺名称与操作员账号对应关系] 文件!')
-        print(self.shops)
+        # print(self.shops)
 
     def modify_rate(self):
         # 后面四个数字的作用依次是 初始值 最小值 最大值 小数点后位数  
