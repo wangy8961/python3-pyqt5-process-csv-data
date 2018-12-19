@@ -6,13 +6,13 @@
 
 
 
-![](http://www.madmalls.com/admin/medias/uploaded/process-csv-01-54579793.png)
+![](http://www.madmalls.com/api/medias/uploaded/process-csv-01-54579793.png)
 
-![](http://www.madmalls.com/admin/medias/uploaded/process-csv-02-96422444.png)
+![](http://www.madmalls.com/api/medias/uploaded/process-csv-02-96422444.png)
 
-![](http://www.madmalls.com/admin/medias/uploaded/process-csv-03-1e3614f0.png)
+![](http://www.madmalls.com/api/medias/uploaded/process-csv-03-1e3614f0.png)
 
-![](http://www.madmalls.com/admin/medias/uploaded/process-csv-04-0075221d.png)
+![](http://www.madmalls.com/api/medias/uploaded/process-csv-04-0075221d.png)
 
 
 
